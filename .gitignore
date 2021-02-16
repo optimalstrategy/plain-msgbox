@@ -1,0 +1,8 @@
+/target
+**/*.rs.bk
+.vscode
+.mypy_cache/
+perf.data*
+*.svg
+*.zst
+.vs

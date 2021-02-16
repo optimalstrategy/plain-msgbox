@@ -1,0 +1,9 @@
+[package]
+name = "plain-msgbox"
+version = "0.1.0"
+authors = ["OptimalStrategy <17456182+OptimalStrategy@users.noreply.github.com>"]
+edition = "2018"
+
+[lib]
+name = "plain_msgbox"
+path = "src/lib.rs"
